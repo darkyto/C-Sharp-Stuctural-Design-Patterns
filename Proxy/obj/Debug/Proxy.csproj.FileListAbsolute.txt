@@ -1,0 +1,6 @@
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Proxy\bin\Debug\Proxy.exe.config
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Proxy\bin\Debug\Proxy.exe
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Proxy\bin\Debug\Proxy.pdb
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Proxy\obj\Debug\Proxy.exe
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Proxy\obj\Debug\Proxy.pdb

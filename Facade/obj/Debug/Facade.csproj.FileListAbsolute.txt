@@ -1,0 +1,6 @@
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Facade\bin\Debug\Facade.exe.config
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Facade\bin\Debug\Facade.exe
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Facade\bin\Debug\Facade.pdb
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Facade\obj\Debug\Facade.exe
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Facade\obj\Debug\Facade.pdb

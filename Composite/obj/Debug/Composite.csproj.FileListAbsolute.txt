@@ -1,0 +1,6 @@
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Composite\bin\Debug\Composite.exe.config
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Composite\bin\Debug\Composite.exe
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Composite\bin\Debug\Composite.pdb
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Composite\obj\Debug\Composite.csprojResolveAssemblyReference.cache
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Composite\obj\Debug\Composite.exe
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Composite\obj\Debug\Composite.pdb

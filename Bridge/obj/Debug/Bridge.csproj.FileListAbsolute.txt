@@ -1,0 +1,6 @@
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Bridge\bin\Debug\Bridge.exe.config
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Bridge\bin\Debug\Bridge.exe
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Bridge\bin\Debug\Bridge.pdb
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Bridge\obj\Debug\Bridge.exe
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Bridge\obj\Debug\Bridge.pdb

@@ -1,0 +1,6 @@
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Decorator\bin\Debug\Decorator.exe.config
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Decorator\bin\Debug\Decorator.exe
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Decorator\bin\Debug\Decorator.pdb
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Decorator\obj\Debug\Decorator.exe
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Decorator\obj\Debug\Decorator.pdb

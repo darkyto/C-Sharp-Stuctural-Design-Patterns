@@ -1,0 +1,5 @@
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Flyweight\bin\Debug\Flyweight.exe.config
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Flyweight\bin\Debug\Flyweight.exe
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Flyweight\bin\Debug\Flyweight.pdb
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Flyweight\obj\Debug\Flyweight.exe
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\Flyweight\obj\Debug\Flyweight.pdb

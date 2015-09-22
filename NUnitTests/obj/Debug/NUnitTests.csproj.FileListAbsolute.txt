@@ -1,0 +1,11 @@
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\NUnitTests\bin\Debug\NUnitTests.dll
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\NUnitTests\bin\Debug\NUnitTests.pdb
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\NUnitTests\bin\Debug\nunit.framework.dll
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\NUnitTests\bin\Debug\Proxy.exe
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\NUnitTests\bin\Debug\Proxy.pdb
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\NUnitTests\bin\Debug\nunit.framework.xml
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\NUnitTests\obj\Debug\NUnitTests.csprojResolveAssemblyReference.cache
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\NUnitTests\obj\Debug\NUnitTests.dll
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\NUnitTests\obj\Debug\NUnitTests.pdb
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\NUnitTests\bin\Debug\Adapter.exe
+D:\TELERIK\KPK\TRAINING\HQC-Structural-Patterns\StructuralPatterns\NUnitTests\bin\Debug\Adapter.pdb
